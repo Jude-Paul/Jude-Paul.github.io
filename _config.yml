@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://jude-paul.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://raw.githubusercontent.com/Jude-Paul/testimg/main/fp-wall6.jpg
+heroimage: https://raw.githubusercontent.com/Jude-Paul/Jude-Paul.github.io/main/assets/images/fp-wall6.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: judepaul64@gmail.com
