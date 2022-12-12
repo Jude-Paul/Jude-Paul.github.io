@@ -1,1 +1,1 @@
-# Jude-Paul.github.io
+# Just My Blog:  Jude-Paul.github.io
